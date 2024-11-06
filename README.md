@@ -21,7 +21,7 @@ git clone https://github.com/ziqing888/teneo-auto-create-account
 进入项目目录：
 
 ```bash
-cd teneo-account-creator
+cd teneo-auto-create-account
 ```
 
 ### 1. 准备邮箱文件
