@@ -16,8 +16,7 @@
 首先，您需要将项目代码库克隆到本地。在终端中运行以下命令来克隆文件库：
 
 ```bash
-git clone <repository_url>
-```
+git clone https://github.com/ziqing888/teneo-auto-create-account
 
 进入项目目录：
 
