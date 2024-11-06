@@ -103,11 +103,5 @@ node index.js
 
 ---
 
-## 作者
 
-- **qklxsqf**
-
-## 许可证
-
-MIT License
 
