@@ -17,7 +17,7 @@
 
 ```bash
 git clone https://github.com/ziqing888/teneo-auto-create-account
-
+  ```
 进入项目目录：
 
 ```bash
