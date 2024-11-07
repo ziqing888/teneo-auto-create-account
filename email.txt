@@ -1,3 +1,3 @@
-// 请在每一行添加一个邮箱地址，示例如下：
+//  请在每一行添加一个邮箱地址，示例如下：
 user1@example.com
 user2@example.com
